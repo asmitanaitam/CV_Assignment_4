@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<CameraMatrixL type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    4.5778124850134452e+02 0. 3.2128652355994063e+02 0.
+    4.5719514736362595e+02 2.1961268966545074e+02 0. 0. 1.</data></CameraMatrixL>
+<CameraMatrixR type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    4.5524197496633906e+02 0. 3.1710366050521333e+02 0.
+    4.5050346140128778e+02 2.0422159131106704e+02 0. 0. 1.</data></CameraMatrixR>
+<DistCoeffsL type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>d</dt>
+  <data>
+    -1.5141693265650208e-01 4.6948414768431856e+00
+    4.9466466724774893e-03 1.5337442156250823e-03
+    -1.7927327502524150e+01</data></DistCoeffsL>
+<DistCoeffsR type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>d</dt>
+  <data>
+    4.7983695014863104e-02 7.9993685702713713e-01 4.4337307021987196e-03
+    1.9646383864351059e-02 -1.3967134931612830e+00</data></DistCoeffsR>
+<RotationMatrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.9999031876637379e-01 2.3055365555597971e-04 4.3942255902488549e-03
+    -2.5752223202644086e-04 9.9998113098911745e-01
+    6.1376989194280853e-03 -4.3927276066357945e-03
+    -6.1387711097129474e-03 9.9997150931085854e-01</data></RotationMatrix>
+<TranslationVector type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -5.3356431517079983e+01 -1.0507009452671662e-01
+    -4.2648445475351453e+00</data></TranslationVector>
+<EssentialMatrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    -6.3674798226770620e-04 4.2654090753977405e+00
+    -7.8890769236380165e-02 -4.4991835282953510e+00
+    -3.2852619581524017e-01 5.3336170666526719e+01
+    1.1880954465582876e-01 -5.3355400509698647e+01
+    -3.2702401036878131e-01</data></EssentialMatrix>
+<FundamentalMatrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    -2.9975359580263981e-09 2.0105454717797587e-05
+    -4.5844624824348873e-03 -2.1403002376482774e-05
+    -1.5648307889908747e-06 1.2337058286752919e-01
+    4.6265245263251457e-03 -1.2054761212915077e-01 1.</data></FundamentalMatrix>
+</opencv_storage>
